@@ -1,1 +1,0 @@
-{"rmse": 18669.597802994485, "mae": 14454.9121752539, "mape": 15.800795846520133, "regression_dir_accuracy": 49.26108374384236, "classification_accuracy": 51.66051660516605, "ensemble_dir_accuracy": 51.600985221674875, "directional_accuracy": 51.600985221674875, "trained_on": 4081, "date_range": "2015-01-23 \u2192 2026-04-02", "features": 34, "seq_len": 20}
